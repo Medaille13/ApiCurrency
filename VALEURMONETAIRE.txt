@@ -1,0 +1,20 @@
+vue js
+
+vue create vue-qqchose
+
+npm run serve
+
+vu build
+
+
+https://www.google.com/search?client=firefox-b-d&q=openclasseroom+vue+js
+
+
+tournevis cruciforme fin
+d’un fer à souder le plus fin et le moins puissant possible (le mien est un 15W)
+de fil électrique fin, 
+de fil d’étain fin, 
+et évidemment de deux switches afin de réaliser les branchements.
+
+
+	  
